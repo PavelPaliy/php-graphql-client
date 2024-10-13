@@ -1,6 +1,6 @@
 {
-    "name": "gmostafa/php-graphql-client",
-    "description": "GraphQL client and query builder.",
+    "name": "PavelPaliy/php-graphql-clien",
+    "description": "GraphQL client and query builder (fork of gmostafa/php-graphql-client, because this library outdated).",
     "type": "library",
     "license": "MIT",
     "keywords": [
@@ -14,8 +14,8 @@
     ],
     "authors": [
         {
-            "name": "Mostafa Ghoneimy",
-            "email": "emostafagh@gmail.com"
+            "name": "Pavel Palii",
+            "email": "paliipavel@gmail.com"
         }
     ],
     "autoload": {
