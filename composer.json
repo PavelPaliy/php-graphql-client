@@ -1,5 +1,5 @@
 {
-    "name": "PavelPaliy/php-graphql-clien",
+    "name": "pavel-paliy/php-graphql-client",
     "description": "GraphQL client and query builder (fork of gmostafa/php-graphql-client, because this library outdated).",
     "type": "library",
     "license": "MIT",
